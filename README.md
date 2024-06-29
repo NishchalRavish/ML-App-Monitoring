@@ -1,6 +1,6 @@
 # ML App Monitoring
 
-This repository contains an ML application designed for continuous monitoring using Grafana, Prometheus, and FastAPI. The project leverages Docker to containerize the services and facilitate easy deployment and management.
+This repository contains an ML application designed for continuous monitoring using Grafana, Prometheus, and FastAPI. The project leverages Docker to containerize the services and facilitate easy deployment and management of the ML Application.
 
 ## Features
 
