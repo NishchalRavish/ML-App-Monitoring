@@ -24,3 +24,19 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/NishchalRavish/ML-App-Monitoring.git
    cd ML-App-Monitoring
+
+# Usage
+
+After running `docker-compose up`, you can access the services as follows:
+
+- **FastAPI Application**: [http://localhost:8005](http://localhost:8005)
+- **Prometheus Dashboard**: [http://localhost:9090](http://localhost:9090)
+- **Grafana Dashboard**: [http://localhost:3000](http://localhost:3000)
+
+## Stopping the Application
+
+To stop the application, use:
+
+```bash
+docker-compose down
+
